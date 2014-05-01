@@ -12,7 +12,8 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'figaro', :github=>"laserlemon/figaro"
-gem 'pg'
+# gem 'pg'
+gem 'sqlite3'
 gem 'pundit'
 gem 'sendgrid'
 gem 'simple_form'
